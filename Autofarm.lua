@@ -1,5 +1,3 @@
--------------------->> Farmhub Script Macros <<--------------------
-
 if not LPH_OBFUSCATED then
 	FH_DEBUG = true
 	FH_DEVELOPER = true
